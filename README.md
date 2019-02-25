@@ -1,3 +1,4 @@
 # Second_Repo
+Gobolada Somliya
 
-This is the second project to practice Git. Gettingh used to Git is really hard. I hope I will master it someday in the future. 
+This is a Java Swing GUI program to show different states in Somalia and their capitols. 
